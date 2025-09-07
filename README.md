@@ -47,7 +47,7 @@ pip install math-utilities
 ## Quick Start
 
 ```python
-from math_utilities import *
+from dml import *
 
 # Basic math operations
 result = round(3.14159, 2)  # Returns 3.14
@@ -246,7 +246,7 @@ help('TemperatureConverter')
 
 ## Requirements
 
-- Python 3.6+
+- Python 3+
 - No external dependencies
 
 ## License
