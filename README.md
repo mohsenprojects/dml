@@ -41,7 +41,7 @@ Extensive collection of physical and mathematical constants:
 ## Installation
 
 ```bash
-pip install math-utilities
+pip install ///
 ```
 
 ## Quick Start
